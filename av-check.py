@@ -17,14 +17,6 @@ except:
 print ("done")
 print ("AV-Scan Running...")
 
-AV_Check_static = ["efpeadm.exe", "cfp.exe","fsdfwd.exe", "fsguiexe.exe","blackd.exe","kpf4gui.exe","nisum.exe","smc.exe","persfw.exe",
-		"pccpfw.ex","msmpeng.exe", "navapsvc.exe", "avkwctl.exe","fsav32.exe", "mcshield.exe", 
-		"ntrtscan.exe","avguard.exe", "ashServ.exe", "AVENGINE.EXE",
-		"avgemc.exe", "tmntsrv.exe", "MsMpEng.exe", "AdAwareService.exe", "afwServ.exe", "avguard.exe", "AVGSvc.exe", 
-            "bdagent.exe", "BullGuardCore.exe", "ekrn.exe", "fshoster32.exe", "GDScan.exe", 
-            "avp.exe", "K7CrvSvc.exe", "McAPExe.exe", "NortonSecurity.exe", "PavFnSvr.exe", 
-            "SavService.exe", "EnterpriseService.exe", "WRSA.exe", "ZAPrivacyService.exe"]
-
 found = {}
 
 status = False
